@@ -7,6 +7,7 @@ I like the nickname Stanley Black, which i made for myself before finding out th
 - 👯 I’m so passionate about hackathons, please reach out if you are looking for a teammate:)
 - 🤔 I’m looking for help with navigating the cyber world 
 - 💬 Ask me about fun project ideas and where think im going with this
-- 📫 How to reach me: email (lordofpings@yahoo.com)
+PS: I am the GDG chapter lead for the Technical University of Kenya. Let's connect 
+- 📫 How to reach me: email (sylvesterleblac@gmail.com)
 - ⚡ Fun fact: i love rice and poetry
 --> 
