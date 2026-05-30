@@ -9,3 +9,18 @@ Focus: Building a solid foundation in ethical hacking and network security.
 In the Lab: Deep diving into Linux internals and Python automation.
 Collaborations: Always hunting for Hackathon teammates. Let's break things (ethically) together!
 Seeking: Mentorship and guidance through the vast cyber-security landscape.
+
+########################My Arsenal#####
+####################
+
+
+![Bash](bash.svg)
+
+
+![Git](git.svg)
+
+
+![Linux](linux.svg)
+
+
+![Python](python.svg)
