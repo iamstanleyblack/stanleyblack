@@ -1,13 +1,5 @@
-## Hi there, my name is Sylvester Gift 👋
-I like the nickname Stanley Black, which i made for myself before finding out there are actual people called that:(
-
-
-- 🔭 I’m in uni doing IT but my goal is to get out as a certified pentester with 4 years of experience
-- 🌱 I’m currently learning Linux and Python concurrently
-- 👯 I’m so passionate about hackathons, please reach out if you are looking for a teammate:)
-- 🤔 I’m looking for help with navigating the cyber world 
-- 💬 Ask me about fun project ideas and where think im going with this
-PS: I am the GDG chapter lead for the Technical University of Kenya. Let's connect 
-- 📫 How to reach me: email (sylvesterleblac@gmail.com)
-- ⚡ Fun fact: i love rice and poetry
---> 
+I am a security researcher and IT student at the Technical University of Kenya. Currently, I operate as the GDG Chapter Lead, fostering a community of developers while honing my skills in the offensive security space.
+Focus: Building a solid foundation in ethical hacking and network security.
+In the Lab: Deep diving into Linux internals and Python automation.
+Collaborations: Always hunting for Hackathon teammates. Let's break things (ethically) together!
+Seeking: Mentorship and guidance through the vast cyber-security landscape.
